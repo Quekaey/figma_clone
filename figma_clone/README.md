@@ -3,8 +3,6 @@
 
 A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
